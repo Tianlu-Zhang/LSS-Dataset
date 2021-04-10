@@ -8,7 +8,7 @@ The newly built LSS dataset contains 12K synthetic thermal images and 3862 synth
 
 - ![1.png](1.png) 
 - ![2.png](2.png) 
-<img src="https://github.com/RaymondCover/LSS-Dataset/1.png" width = "200" height = "300" alt="" align=center />
+<img src="https://github.com/RaymondCover/LSS-Dataset/1.png" width = "200" height = "300" alt="1" align=center />
 
 # VID-RGBT
 Download Link: https://pan.baidu.com/s/12eiE0sygHs92mAU_3qbGyQ
