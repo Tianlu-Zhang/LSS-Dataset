@@ -10,14 +10,13 @@ The newly built LSS dataset contains 12K synthetic thermal images and 3862 synth
 - ![2.png](2.png) 
 
 # VID-RGBT
-Download Link: https://pan.baidu.com/s/12eiE0sygHs92mAU_3qbGyQ
+Download Link: https://pan.baidu.com/s/1x2hiqb2lSo54_4CI_L9YeQ
 
-code: 83U7
+code: Ye5Q 
 
 # TIR-RGBT
-Download Link: https://pan.baidu.com/s/1wTQUySD6qweOuLdFTnAiPw
-
-code: Y763
+Download Link: https://pan.baidu.com/s/1xD3Ox-9VbZnyRQSWOxQRNw
+code: IHws 
 
 # Reference
 
